@@ -1,0 +1,6 @@
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\bin\Debug\cs3_2.exe.config
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\bin\Debug\cs3_2.exe
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\bin\Debug\cs3_2.pdb
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\obj\Debug\Wyjatki.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\obj\Debug\cs3_2.exe
+C:\Users\Bartek\source\repos\cs3_2\cs3_2\obj\Debug\cs3_2.pdb
